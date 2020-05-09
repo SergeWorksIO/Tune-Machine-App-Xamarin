@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TuneMachineApp.Android", "TuneMachineApp.Android\TuneMachineApp.Android.csproj", "{D5D5FB20-E1EE-4482-AC1D-3800AC336117}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TuneMachineApp", "TuneMachineApp\TuneMachineApp.csproj", "{8E750095-2015-4E7F-A4E1-8C926001ADE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5D5FB20-E1EE-4482-AC1D-3800AC336117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5D5FB20-E1EE-4482-AC1D-3800AC336117}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5D5FB20-E1EE-4482-AC1D-3800AC336117}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5D5FB20-E1EE-4482-AC1D-3800AC336117}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E750095-2015-4E7F-A4E1-8C926001ADE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E750095-2015-4E7F-A4E1-8C926001ADE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E750095-2015-4E7F-A4E1-8C926001ADE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E750095-2015-4E7F-A4E1-8C926001ADE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
